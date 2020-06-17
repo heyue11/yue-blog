@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yue/vuepress_blog_template.git"
+    "url": "git+https://github.com/heyue11/vuepress_blog_template.git"
   },
   "keywords": [],
   "dependencies": {
